@@ -1,0 +1,84 @@
+<resources>
+    <string name="app_name">EuroLeague Quiz</string>
+    <string name="enter_name">Enter your name here!</string>
+    <string name="start_quiz">START THE QUIZ</string>
+    <string name="please_enter_name">Please enter your name!</string>
+    <string name="submit_answer">SUBMIT THE ANSWER</string>
+    <string name="next_question">NEXT QUESTION</string>
+    <string name="correct">Correct! Current Score:</string>
+    <string name="incorrect">Incorrect! Current Score:</string>
+    <string name="welcome">Welcome</string>
+    <string name="welcome_text">There are 8 questions in this quiz and each of the questions worth 10 points. Good Luck</string>
+    <string name="ok">CONTINUE</string>
+    <string name="finish_quiz">FINISH THE QUIZ</string>
+    <string name="congrats">Congratulations</string>
+    <string name="you_finish">You Completed the Quiz!</string>
+    <string name="total_score">Total Score:</string>
+    <string name="max_score" translatable="false">80</string>
+    <string name="question1">Question 1</string>
+    <string name="question1_text">How many matches are played in total in EuroLeague normal season starting from 2016–17 season?</string>
+    <string name="question1_rb1" translatable="false">200</string>
+    <string name="question1_rb2" translatable="false">240</string>
+    <string name="question1_rb3" translatable="false">280</string>
+    <string name="question1_rb4" translatable="false">320</string>
+    <string name="question1_warning">Please select one of the answers!</string>
+    <string name="question2">Question 2</string>
+    <string name="question2_text">What is the name of the MVP of EuroLeague Final Four İstanbul 2017?</string>
+    <string name="question2_hint">Name Surname</string>
+    <string name="question2_warning">Please write your answer!</string>
+    <string name="question2_correct_answer_short" translatable="false">Ekpe Udoh</string>
+    <string name="question2_correct_answer_long">The correct answer is Ekpe Udoh!</string>
+    <string name="question3">Question 3</string>
+    <string name="question3_text">Select the four teams that have played in EuroLeague Final Four İstanbul 2017.</string>
+    <string name="question3_cb1">Panathinaikos Superfoods Athens</string>
+    <string name="question3_cb2">Olympiacos Piraeus</string>
+    <string name="question3_cb3" translatable="false">Real Madrid</string>
+    <string name="question3_cb4" translatable="false">FC Barcelona Lassa</string>
+    <string name="question3_cb5" translatable="false">Maccabi FOX Tel Aviv</string>
+    <string name="question3_cb6" translatable="false">Fenerbahçe Doğuş İstanbul</string>
+    <string name="question3_cb7">CSKA Moscow</string>
+    <string name="question3_cb8">Khimki Moscow Region</string>
+    <string name="question3_warning">Please select exactly four teams!</string>
+    <string name="question4">Question 4</string>
+    <string name="question4_text">Which team has won EuroLeague Final Four İstanbul 2017?</string>
+    <string name="question4_rb1">Olympiacos Piraeus</string>
+    <string name="question4_rb2" translatable="false">Real Madrid</string>
+    <string name="question4_rb3" translatable="false">Fenerbahçe Doğuş İstanbul</string>
+    <string name="question4_rb4">CSKA Moscow</string>
+    <string name="question4_warning">Please select one of the teams!</string>
+    <string name="question5">Question 5</string>
+    <string name="question5_text">How many times Zeljko Obradovic has won the EuroLeague Champion title as a head coach?</string>
+    <string name="question5_rb1" translatable="false">6</string>
+    <string name="question5_rb2" translatable="false">7</string>
+    <string name="question5_rb3" translatable="false">8</string>
+    <string name="question5_rb4" translatable="false">9</string>
+    <string name="question5_warning">Please select one of the answers!</string>
+    <string name="question6">Question 6</string>
+    <string name="question6_text">Select three players ranked in Top 3 in All-Time Assist Leaders in EuroLeague.</string>
+    <string name="question6_cb1" translatable="false">Šarūnas Jasikevičius</string>
+    <string name="question6_cb2" translatable="false">Juan Carlos Navarro</string>
+    <string name="question6_cb3" translatable="false">Vassilis Spanoulis</string>
+    <string name="question6_cb4" translatable="false">Kerem Tunçeri</string>
+    <string name="question6_cb5" translatable="false">Theodoros Papaloukas</string>
+    <string name="question6_cb6" translatable="false">Dimitris Diamantidis</string>
+    <string name="question6_cb7" translatable="false">Sergio Llull</string>
+    <string name="question6_cb8" translatable="false">Miloš Teodosić</string>
+    <string name="question6_warning">Please select exactly three players!</string>
+    <string name="question7">Question 7</string>
+    <string name="question7_text">Who are the player and the coach in the photo?</string>
+    <string name="question7_rb1" translatable="false">Paulius Jankūnas - Šarūnas Jasikevičius</string>
+    <string name="question7_rb2" translatable="false">Sergio Rodríguez - Xavi Pascual</string>
+    <string name="question7_rb3" translatable="false">Miloš Teodosić - Dušan Ivković</string>
+    <string name="question7_rb4" translatable="false">Vassilis Spanoulis - Ioannis Sfairopoulos</string>
+    <string name="question7_warning">Please select one of the answers!</string>
+    <string name="question8">Question 8</string>
+    <string name="question8_text">Which player ranks at 1st place in All-Time Points Leader in EuroLeague?</string>
+    <string name="question8_rb1" translatable="false">Vassilis Spanoulis</string>
+    <string name="question8_rb2" translatable="false">Juan Carlos Navarro</string>
+    <string name="question8_rb3" translatable="false">Miloš Teodosić</string>
+    <string name="question8_rb4" translatable="false">Marcus Brown</string>
+    <string name="question8_warning">Please select one of the players!</string>
+
+</resources>
+
+
