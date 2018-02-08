@@ -24,6 +24,7 @@ public class Question2Activity extends AppCompatActivity {
         getWindow().setFlags(WindowManager.LayoutParams.FLAG_FULLSCREEN,
                 WindowManager.LayoutParams.FLAG_FULLSCREEN);
         setContentView(R.layout.question2);
+        this.getWindow().setSoftInputMode(WindowManager.LayoutParams.SOFT_INPUT_STATE_ALWAYS_HIDDEN);
         editText = (EditText) findViewById(R.id.edit_text);
         answerButton = (Button) findViewById(R.id.answer_button);
     }

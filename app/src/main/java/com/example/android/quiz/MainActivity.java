@@ -27,6 +27,7 @@ public class MainActivity extends AppCompatActivity {
         getWindow().setFlags(LayoutParams.FLAG_FULLSCREEN,
                 LayoutParams.FLAG_FULLSCREEN);
         setContentView(R.layout.activity_main);
+        this.getWindow().setSoftInputMode(WindowManager.LayoutParams.SOFT_INPUT_STATE_ALWAYS_HIDDEN);
         mp = MediaPlayer.create(getApplicationContext(), R.raw.feel_devotion);
         mp.start();
     }
